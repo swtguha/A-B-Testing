@@ -33,6 +33,12 @@ The dataset was cleaned to ensure accurate analysis. This included:
 
 Sampled the necessary number of users for the control and treatment groups to ensure statistically valid results.
 
+**Hypothesis Testing:**
+
+**Null Hypothesis (H0):** There is no significant difference in conversion rates between the control group (old landing page) and the treatment group (new landing page).
+
+**Alternative Hypothesis (H1):** There is a significant difference in conversion rates between the control group and the treatment group.
+
 **Statistical Analysis:**
 
 1)Performed statistical tests (Z-test and T-test) to compare conversion rates between the control and treatment groups.
@@ -51,11 +57,14 @@ Statistical Tests:
 
 Z-Test: Z-Statistic: -0.3430, P-Value: 0.7316
 T-Test: T-Statistic: -0.3429, P-Value: 0.7317
-Conclusion
-The analysis indicates no statistically significant difference between the conversion rates of the control and treatment groups. The confidence intervals for both groups overlap, suggesting that the new landing page does not lead to a significant improvement in conversion rates compared to the old one.
+**Conclusion**
 
-Further Work
+The analysis indicates no statistically significant difference between the conversion rates of the control and treatment groups. With p-values well above the common alpha level of 0.05, we fail to reject the null hypothesis. The confidence intervals for both groups overlap, suggesting that the new landing page does not lead to a significant improvement in conversion rates compared to the old one.
+
+**Further Work**
+
 Explore Other Factors: Investigate additional variables or factors that might influence conversion rates.
 Run Additional Tests: Consider running more experiments or exploring different variations of the landing page.
-License
+
+**License**
 This project is licensed under the MIT License
