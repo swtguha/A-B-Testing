@@ -52,11 +52,15 @@ Sampled the necessary number of users for the control and treatment groups to en
 **Conversion Rates:**
 
 Control Group: **12.33%** (95% CI: [11.42%, 13.30%])
+
 Treatment Group: **12.56%** (95% CI: [11.65%, 13.54%])
+
 Statistical Tests:
 
 Z-Test: Z-Statistic: -0.3430, P-Value: 0.7316
+
 T-Test: T-Statistic: -0.3429, P-Value: 0.7317
+
 **Conclusion**
 
 The analysis indicates no statistically significant difference between the conversion rates of the control and treatment groups. With p-values well above the common alpha level of 0.05, we fail to reject the null hypothesis. The confidence intervals for both groups overlap, suggesting that the new landing page does not lead to a significant improvement in conversion rates compared to the old one.
