@@ -55,7 +55,7 @@ Control Group: **12.33%** (95% CI: [11.42%, 13.30%])
 
 Treatment Group: **12.56%** (95% CI: [11.65%, 13.54%])
 
-Statistical Tests:
+**Statistical Tests:**
 
 Z-Test: Z-Statistic: -0.3430, P-Value: 0.7316
 
